@@ -5,3 +5,6 @@ This repository is for learning Golang. The code is for essential knowledge of G
 Major banch is named as name of book or course
 ## Coding convension
 Following Google [Golang Style Guide](https://github.com/golang/go/wiki/CodeReviewComments)
+##LeetCode 
+- https://github.com/halfrost/LeetCode-Go
+- https://github.com/austingebauer/go-leetcode
