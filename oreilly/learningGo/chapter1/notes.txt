@@ -1,0 +1,32 @@
+
+go env
+
+go run chapter1.go
+
+go install github.com/rakyll/hey@latest
+goimports -l -w
+
+golangci-lint, staticcheck, revive, 
+https://staticcheck.io/
+https://revive.run/
+
+
+go vet 
+
++ Go programs compile to a single binary and do not require any additional software to be installed in order to run them
++ Enforcing a standard format makes it a great deal easier to write tools that manipulate source code. 
+This simplifies the compiler and allows the creation of some clever tools for generating code
+
++semicolon insertion rules ---https://go.dev/doc/effective_go#semicolons
+
+VSCode 
+
+ This includes the Go Development tools, The Delve debugger, and gopls, a Go Language Server developed by the Go team
+ https://github.com/go-delve/delve
+
+ MakeFile
+
+
+
+
+
