@@ -1,0 +1,19 @@
+Primitive Types and Declarations
+
+- Zero Value 
+    + Assigns a default zero value to any variable that is declared but not assigned a value 
+- Literals 
+ + A literal in Go refers to writing out a number, character, or string. 
+ + Go allows you to put underscores in the middle of your literal 
+ + Integer literal
+ + Floating point literal 
+ + Rune literal  
+    - Unlike many other language in Go, single quotes and double quotes are not interchangeable 
+ Literals in Go are untypes
+ 
+ Numeric Types
+ + 12 different Types
+  
+  int , uint 
+  byte = uint8
+  
