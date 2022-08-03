@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Fri Jul 29 22:32:13 2022
+# Make data base, printed on Sat Jul 30 17:34:26 2022
 
 # Variables
 
@@ -39,7 +39,7 @@ GOPATH = C:\Users\chau.luong\go
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_16552_HNIUCLJLSDAHMECY
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_27432_KCHHHJVTNZGTLVYE
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # default
@@ -87,7 +87,7 @@ MAKEFILE_LIST :=
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_PID = 16552
+VSCODE_PID = 27432
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -171,6 +171,8 @@ HOMEDRIVE = C:
 # environment
 PROCESSOR_ARCHITECTURE = x86
 # environment
+GOMODCACHE = C:\Users\chau.luong\go\pkg\mod
+# environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
@@ -180,6 +182,8 @@ ELECTRON_RUN_AS_NODE = 1
 TEMP = C:\Users\CHAU~1.LUO\AppData\Local\Temp
 # environment
 VSCODE_IPC_HOOK = \\.\pipe\5f7cd956886b1affb03da8d3ad9f0be9-1.69.2-main-sock
+# environment
+GOPROXY = https://proxy.golang.org,direct
 # default
 .RECIPEPREFIX := 
 # automatic
@@ -197,7 +201,7 @@ PROCESSOR_REVISION = 8c01
 # environment
 PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
 # variable set hash-table stats:
-# Load=92/1024=9%, Rehash=0, Collisions=7/116=6%
+# Load=94/1024=9%, Rehash=0, Collisions=7/118=6%
 
 # Pattern-specific Variable Values
 
@@ -270,6 +274,6 @@ GNUmakefile:
 # strcache performance: lookups = 18 / hit rate = 16%
 # hash-table stats:
 # Load=15/8192=0%, Rehash=0, Collisions=0/18=0%
-# Finished Make data base on Fri Jul 29 22:32:13 2022
+# Finished Make data base on Sat Jul 30 17:34:26 2022
 
  
