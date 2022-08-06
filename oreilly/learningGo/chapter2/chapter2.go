@@ -8,6 +8,7 @@ func main() {
 	fmt.Println("------Chapter 02----------")
 
 	complexType()
+	runeliteralType()
 
 }
 
@@ -25,4 +26,10 @@ func complexType() {
 	fmt.Println(real(x))
 	fmt.Println(imag(y))
 
+}
+
+func runeliteralType() {
+	fmt.Println("--rune--")
+	var runetype = '\141'
+	fmt.Println(runetype)
 }

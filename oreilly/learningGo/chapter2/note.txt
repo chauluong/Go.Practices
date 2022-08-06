@@ -17,3 +17,12 @@ Primitive Types and Declarations
   int , uint 
   byte = uint8
   
+  + Complex Type 
+
+  Gonum --https://www.gonum.org/
+
+  + String 
+   - Immutable 
+  + Explicit Type Conversion 
+   - Go doesn’t allow to automatic type conversion 
+   
